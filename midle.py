@@ -21,7 +21,10 @@ def get_data(html):
         disk3 = car.find('div',class_='block info-wrapper item-info-wrapper').find('p', class_ = 'volume').text.strip()
         disk = disk1 + disk2 + disk3
         price = car.find('div',class_ = 'block price').find('strong').text.strip()
-        img = car.find('div',class_='thumb-item-carousel').find('img').get('data-src').strip()
+        try:
+            img = car.find('div',class_='thumb-item-carousel').find('img').get('data-src').strip() + ' '
+        except:
+            img = 'NO IMAGE'
         data = {'model':model,'disk':disk, 'price':price,'img':img}
         write_to_csv(data)
 
@@ -29,9 +32,26 @@ with open('data.csv', 'w') as file:
     write = csv.writer(file)
     write.writerow(['                   image','                                                                    model','    discription','                                     price'])
 
+def get_last_pages(html):
+    soup = BeautifulSoup(html, 'lxml')
+    page_list = soup.find('nav').find('ul', class_ = 'pagination').find_all('li')
+    last_page  = page_list[6].text
+    print(int(last_page))
+    return int(last_page)
+
 def main():
     url = 'https://www.mashina.kg/search/bmw/'
     html = get_html(url)
-    get_data(html)
+    num = int(get_last_pages(html))
+    i = 1
+    while i <= num:
+        print(i)
+        url = f'https://www.mashina.kg/search/bmw/?page={i}'
+        html = get_html(url)
+        num = int(get_last_pages(html))
+        i+=1
+        if not BeautifulSoup(html, 'lxml').find('div', class_='list-item list-label'):
+            break
+        get_data(html)
 
 main()

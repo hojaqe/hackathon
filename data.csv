@@ -1,21 +1,441 @@
                    image,                                                                    model,    discription,                                     price
-https://im.mashina.kg/tachka/images//8/d/d/8dd63c90677f4da8cb7d01770046f8c0_240x180.jpg,BMW M4,"2022 г., 3 л., автоматкупе, бензинруль слева, 20 км",$ 173 000
-https://im.mashina.kg/tachka/images//6/6/0/66019199e5a4a1505204fcb47285e0bd_240x180.jpg,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 53 000 км",$ 80 000
-https://im.mashina.kg/tachka/images//5/c/3/5c33a42b31e886c1110074bf118c5e40_240x180.jpg,BMW 4 серии,"2022 г., 2 л., автоматкупе, бензинруль слева   новый",$ 70 500
-https://im.mashina.kg/tachka/images//5/3/f/53fa673e75ae91c22b80355db2323237_240x180.jpg,BMW 5 серии,"2020 г., 4.4 л., автоматседан, бензинруль слева, 2 000 км",$ 98 000
-https://im.mashina.kg/tachka/images//e/7/c/e7c0439d84ca370a379479d4f6152369_240x180.jpg,BMW 5 серии,"2022 г., 2 л., автоматседан, бензинруль слева   новый",$ 88 600
-https://im.mashina.kg/tachka/images//8/f/a/8faf2a0f3e8ccd69d82eb61a8f3a3f10_240x180.jpg,BMW 8 серии,"2022 г., 3 л., автоматседан, бензинруль слева, 20 км",$ 162 000
-https://im.mashina.kg/tachka/images//3/8/1/381b5254ce61acbed1c85b7300628f37_240x180.jpg,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 156 112 км",$ 36 700
-https://im.mashina.kg/tachka/images//6/a/e/6ae3447dc1dfe8029534203d243dc41b_240x180.jpg,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 35 000 км",$ 110 000
-https://im.mashina.kg/tachka/images//3/a/7/3a7d9bdc8d6be11a0b5dee6bc8244a28_240x180.jpg,BMW 4 серии,"2016 г., 2 л., автоматлифтбек, бензинруль слева, 117 000 км",$ 22 000
-https://im.mashina.kg/tachka/images//5/b/4/5b489513bc32d96a9d85d1d6e9d24212_240x180.jpg,BMW X6,"2008 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 240 240 км",$ 20 900
-https://im.mashina.kg/tachka/images//e/6/6/e6678b8f519836a9b44b626e3fc8d0d5_240x180.jpg,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева   новый",$ 185 000
-https://im.mashina.kg/tachka/images//8/e/3/8e39e1380b6d97ee3337046418ac3239_240x180.jpg,BMW 3 серии,"2019 г., 2 л., автоматседан, дизельруль слева, 28 000 км",$ 35 000
-https://im.mashina.kg/tachka/images//7/5/a/75a8e663c1791f2a017443b5b6dcc024_240x180.jpg,BMW X5,"2017 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 102 000 км",$ 45 000
-https://im.mashina.kg/tachka/images//c/1/1/c11117b878658c0c1f62d966ed05e97e_240x180.jpg,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева   новый",$ 135 800
-https://im.mashina.kg/tachka/images//8/f/0/8f0b9fec76a795a9267f5a46b9cfc0c7_240x180.jpg,BMW 5 серии,"2011 г., 3 л., автоматседан, бензинруль слева, 130 000 км",$ 17 999
-https://im.mashina.kg/tachka/images//e/c/8/ec8688bfc775edd3cf5dc8f29583402e_240x180.jpg,BMW 5 серии,"2004 г., 2.2 л., автоматседан, бензинруль слева, 197 163 км",$ 9 000
-https://im.mashina.kg/tachka/images//9/a/f/9afc87d183f76b752139dc4c6879eb17_240x180.jpg,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 1 400 км",$ 128 000
-https://im.mashina.kg/tachka/images//e/f/8/ef8c487b4add64f9581c25a8a8f2176e_240x180.jpg,BMW 4 серии,"2016 г., 2 л., автоматкупе, бензинруль слева, 125 529 км",$ 25 000
-https://im.mashina.kg/tachka/images//0/9/6/096f8c562450821742af1f1127266de5_240x180.jpg,BMW X5 M,"2022 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 25 км",$ 226 800
-https://im.mashina.kg/tachka/images//b/6/1/b61ff92d687e10d1334d20287de002cf_240x180.jpg,BMW 7 серии,"2020 г., 3 л., автоматседан, дизельруль слева, 40 000 км",$ 105 000
+https://im.mashina.kg/tachka/images//6/6/0/66019199e5a4a1505204fcb47285e0bd_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 53 000 км",$ 75 000
+https://im.mashina.kg/tachka/images//d/4/c/d4cce14d27e828bc6cd084de1fdc424f_240x180.jpg ,BMW X5,"2015 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 115 000 км",$ 39 000
+https://im.mashina.kg/tachka/images//b/2/6/b26c4254cdf4680a7a3e16ab97002135_240x180.jpg ,BMW 1 серии,"2008 г., 3 л., механикакупе, бензинруль слева, 158 000 км",$ 19 500
+https://im.mashina.kg/tachka/images//9/a/c/9ac46487c8d14af18a412fced25653a9_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 79 662 км",$ 75 500
+https://im.mashina.kg/tachka/images//3/8/1/381b5254ce61acbed1c85b7300628f37_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 156 112 км",$ 36 700
+https://im.mashina.kg/tachka/images//f/0/1/f014b3f693bc7432a1f97f33a9701aab_240x180.jpg ,BMW 3 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 65 983 км",$ 23 000
+https://im.mashina.kg/tachka/images//a/4/8/a4842dba02ac2426981910c7d5b9405e_240x180.jpg ,BMW X5,"2018 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 77 000 км",$ 47 000
+https://im.mashina.kg/tachka/images//f/a/b/fabf72f372ab547edb8fa2be234076ec_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 19 700 км",$ 98 000
+https://im.mashina.kg/tachka/images//5/b/4/5b489513bc32d96a9d85d1d6e9d24212_240x180.jpg ,BMW X6,"2008 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 240 240 км",$ 20 900
+https://im.mashina.kg/tachka/images//d/d/0/dd04e66755684a3b6c70f0aa109a27cd_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 243 000 км",$ 10 700
+https://im.mashina.kg/tachka/images//e/6/6/e6678b8f519836a9b44b626e3fc8d0d5_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева   новый",$ 185 000
+https://im.mashina.kg/tachka/images//7/5/a/75a8e663c1791f2a017443b5b6dcc024_240x180.jpg ,BMW X5,"2017 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 102 000 км",$ 45 000
+https://im.mashina.kg/tachka/images//8/f/0/8f0b9fec76a795a9267f5a46b9cfc0c7_240x180.jpg ,BMW 5 серии,"2011 г., 3 л., автоматседан, бензинруль слева, 130 000 км",$ 17 999
+https://im.mashina.kg/tachka/images//1/a/1/1a1dd5ef5e7bd8571270ffff0a2bb015_240x180.jpg ,BMW 5 серии,"2003 г., 2.5 л., автоматседан, бензинруль справа, 709 000 км",$ 12 000
+https://im.mashina.kg/tachka/images//e/c/8/ec8688bfc775edd3cf5dc8f29583402e_240x180.jpg ,BMW 5 серии,"2004 г., 2.2 л., автоматседан, бензинруль слева, 197 163 км",$ 9 000
+https://im.mashina.kg/tachka/images//b/2/b/b2bf84b9da8c13547a67e23e19500521_240x180.jpg ,BMW 5 серии,"2003 г., 3 л., автоматседан, бензинруль слева, 250 000 км",$ 8 755
+https://im.mashina.kg/tachka/images//9/a/f/9afc87d183f76b752139dc4c6879eb17_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 1 400 км",$ 128 000
+https://im.mashina.kg/tachka/images//0/9/6/096f8c562450821742af1f1127266de5_240x180.jpg ,BMW X5 M,"2022 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 25 км",$ 226 800
+https://im.mashina.kg/tachka/images//1/6/5/1654b9b5c4719b24514751df46727cd2_240x180.jpg ,BMW X7,"2020 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 30 000 км",$ 145 000
+https://im.mashina.kg/tachka/images//b/7/d/b7d71910a96976c9f9af63d5d82f75f0_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 60 000 км",$ 110 000
+https://im.mashina.kg/tachka/images//3/2/e/32e914250439b9bbc9fb72353923c89d_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 70 000 км",$ 98 500
+https://im.mashina.kg/tachka/images//3/3/d/33dfdced6f476859ff39beb7f12eb26c_240x180.jpg ,BMW 5 серии,"1995 г., 4 л., механикаседан, бензинруль слева, 250 000 км",$ 15 500
+https://im.mashina.kg/tachka/images//b/4/d/b4d811714b1c7a3c6aa44ee2942b02b7_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., гибридруль слева, 35 км",$ 132 000
+https://im.mashina.kg/tachka/images//1/c/6/1c6ab90ae10cd87749f59e94f4e09f25_240x180.jpg ,BMW X5,"2004 г., 4.8 л., автоматвнедорожник 5 дв., бензинруль слева, 220 000 км",$ 16 500
+https://im.mashina.kg/tachka/images//e/9/2/e92b355b30c5521f20319bbc83d1f5cf_240x180.jpg ,BMW 7 серии,"2017 г., 4.4 л., автоматседан, бензинруль слева, 147 000 км",$ 52 000
+https://im.mashina.kg/tachka/images//9/c/9/9c92075443a3e5a363612038210dd5e5_240x180.jpg ,BMW X5,"2017 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 150 000 км",$ 55 000
+https://im.mashina.kg/tachka/images//3/4/3/343b67949f271b62ed0722b85c370fd1_240x180.jpg ,BMW X6,"2014 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 52 000 км",$ 47 500
+https://im.mashina.kg/tachka/images//a/d/2/ad2fde4cf2fbf452f8ac6f29f3b1791f_240x180.jpg ,BMW 5 серии,"2006 г., 2.5 л., автоматседан, бензинруль слева, 294 000 км",$ 9 100
+https://im.mashina.kg/tachka/images//3/6/2/362811560ad81651bc249ec0e7c9cffa_240x180.jpg ,BMW 5 серии,"2020 г., 2 л., автоматседан, бензинруль слева, 50 000 км",$ 70 000
+https://im.mashina.kg/tachka/images//b/6/3/b63c2eb1e739e8d9df392d18b9e920cf_240x180.jpg ,BMW X5 M,"2021 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 19 000 км",$ 155 000
+https://im.mashina.kg/tachka/images//5/c/3/5c33a42b31e886c1110074bf118c5e40_240x180.jpg ,BMW 4 серии,"2022 г., 2 л., автоматкупе, бензинруль слева   новый",$ 70 500
+https://im.mashina.kg/tachka/images//5/3/f/53fa673e75ae91c22b80355db2323237_240x180.jpg ,BMW 5 серии,"2020 г., 4.4 л., автоматседан, бензинруль слева, 2 000 км",$ 98 000
+https://im.mashina.kg/tachka/images//e/7/c/e7c0439d84ca370a379479d4f6152369_240x180.jpg ,BMW 5 серии,"2022 г., 2 л., автоматседан, бензинруль слева   новый",$ 88 600
+https://im.mashina.kg/tachka/images//8/f/a/8faf2a0f3e8ccd69d82eb61a8f3a3f10_240x180.jpg ,BMW 8 серии,"2022 г., 3 л., автоматседан, бензинруль слева, 20 км",$ 162 000
+https://im.mashina.kg/tachka/images//8/d/1/8d19e5e2f220138cca6b5cc6df3e99b8_240x180.jpg ,BMW 3 серии,"1991 г., 1.8 л., механикаседан, бензинруль слева, 305 000 км",$ 1 821
+https://im.mashina.kg/tachka/images//8/2/a/82af5b5e3276f5cc72e15f77d4748a6d_240x180.jpg ,BMW X5,"2002 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 380 000 км",$ 11 300
+https://im.mashina.kg/tachka/images//0/2/4/02463686cb3223a079d4253133b35fc8_240x180.jpg ,BMW 5 серии,"1999 г., 2 л., механикаседан, бензинруль слева, 300 000 км",$ 6 700
+https://im.mashina.kg/tachka/images//6/2/b/62bf791df9b10c5e418c5f3adae93891_240x180.jpg ,BMW 7 серии,"2011 г., 3 л., автоматседан, бензинруль слева, 180 000 км",$ 20 000
+https://im.mashina.kg/tachka/images//7/7/2/7729071067b6660235c03842e30f2b77_240x180.jpg ,BMW X5,"2016 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 137 000 км",$ 43 500
+https://im.mashina.kg/tachka/images//0/d/2/0d20c050e03d7c826f3ebc1243573854_240x180.jpg ,BMW 5 серии,"1994 г., 2 л., механикаседан, бензинруль слева, 265 000 км",$ 8 000
+https://im.mashina.kg/tachka/images//9/3/b/93bce151f277e8d9140816f4dcd34178_240x180.jpg ,BMW 7 серии,"2019 г., 6.6 л., автоматседан, бензинруль слева, 36 000 км",$ 115 000
+https://im.mashina.kg/tachka/images//a/7/f/a7f931a6dcfa7599b5bd1f9c03e3a0cf_240x180.jpg ,BMW 7 серии,"2017 г., 3 л., автоматседан, бензинруль слева, 45 000 км",$ 55 000
+https://im.mashina.kg/tachka/images//b/2/0/b20a8fafa298da3b33c494a9ebc08950_240x180.jpg ,BMW 5 серии,"2007 г., 3 л., автоматседан, бензинруль слева, 171 000 км",$ 18 000
+https://im.mashina.kg/tachka/images//0/a/0/0a0cf81c47abacd192e7cd012ab4529c_240x180.jpg ,BMW X5,"2006 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 245 000 км",$ 15 000
+https://im.mashina.kg/tachka/images//d/d/4/dd45ffe5008a1ae60a1cbf8a0b366066_240x180.jpg ,BMW 7 серии,"2001 г., 4.4 л., автоматседан, бензинруль слева, 265 000 км",$ 17 500
+https://im.mashina.kg/tachka/images//4/0/f/40f4ed4f55883586bcb3f2601d87bdc2_240x180.jpg ,BMW X6,"2013 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 140 000 км",$ 27 500
+https://im.mashina.kg/tachka/images//f/d/8/fd88ef547de8640584efcb4d097532d3_240x180.jpg ,BMW 5 серии,"2000 г., 2 л., механикаседан, бензинруль слева, 330 000 км",$ 4 900
+https://im.mashina.kg/tachka/images//7/2/4/724d0fc7b135c1cd7c0c5092776eb869_240x180.jpg ,BMW 5 серии,"1996 г., 2 л., механикаседан, бензинруль слева, 12 580 км",$ 4 724
+https://im.mashina.kg/tachka/images//c/f/4/cf43ee328ba47275a6ad810c6542d043_240x180.jpg ,BMW X7,"2021 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 26 700 км",$ 145 000
+https://im.mashina.kg/tachka/images//e/4/7/e4723a78bd75b0081cd22bb5c99dab97_240x180.jpg ,BMW X6,"2018 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 77 000 км",$ 61 000
+https://im.mashina.kg/tachka/images//e/e/6/ee60d32b0aa05467a593465290129b1c_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 102 000 км",$ 89 000
+https://im.mashina.kg/tachka/images//0/d/d/0dd0cb01389ed07dc6ac4263d37cab1f_240x180.jpg ,BMW 5 серии,"2000 г., 2.5 л., автоматседан, бензинруль слева, 281 000 км",$ 6 900
+https://im.mashina.kg/tachka/images//9/8/d/98dc7d6b9ef859fbe97505edd1825a49_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, бензинруль слева, 52 000 км",$ 35 900
+https://im.mashina.kg/tachka/images//0/4/c/04c6fa8a872e3bf5f919a240ebda8acf_240x180.jpg ,BMW X7,"2023 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 200 км",$ 185 000
+https://im.mashina.kg/tachka/images//d/c/9/dc9ee55de2ea31783398198305e4db20_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 150 000 км",$ 40 000
+https://im.mashina.kg/tachka/images//3/7/8/37812eb51fbdb3d42f494860ef7ca52b_240x180.jpg ,BMW 3 серии,"2020 г., 2 л., автоматседан, бензинруль слева, 23 500 км",$ 37 000
+https://im.mashina.kg/tachka/images//1/a/a/1aa7875a9ba61a35ee89de8e82840c00_240x180.jpg ,BMW X7,"2021 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 5 633 км",$ 87 400
+https://im.mashina.kg/tachka/images//e/f/c/efce00a8b6cb865b8167eeadd1793fe3_240x180.jpg ,BMW 7 серии,"2012 г., 4.4 л., автоматседан, бензинруль слева, 179 600 км",$ 25 000
+https://im.mashina.kg/tachka/images//e/4/4/e44d1823c205f39218c8845f1aac0a02_240x180.jpg ,BMW 3 серии,"2002 г., 2.5 л., автоматседан, бензинруль слева, 11 100 км",$ 7 800
+https://im.mashina.kg/tachka/images//3/c/4/3c4d865c5af645e2c42f9b5dd7826ba9_240x180.jpg ,BMW X6,"2015 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 40 000 км",$ 50 700
+https://im.mashina.kg/tachka/images//0/f/8/0f82df716f2ed7f4f8584297cd64a023_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 86 100 км",$ 54 300
+https://im.mashina.kg/tachka/images//5/e/3/5e31592d6c9e53165f71adfc5bd8bcb2_240x180.jpg ,BMW X5,"2018 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 64 052 км",$ 23 800
+https://im.mashina.kg/tachka/images//f/6/0/f6084c38eada5f6ac6f84300c51e6a9e_240x180.jpg ,BMW X5,"2018 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 36 854 км",$ 23 000
+https://im.mashina.kg/tachka/images//1/4/7/1477f18769dc4dc3ea1c21a20fc6c128_240x180.jpg ,BMW X5,"2001 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 19 999 км",$ 7 800
+https://im.mashina.kg/tachka/images//5/e/c/5ec9d7c3fe174cc8ad31d92fbe5aa289_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 1 931 км",$ 55 600
+https://im.mashina.kg/tachka/images//5/c/b/5cb7aee59c782da7e000ea9660399614_240x180.jpg ,BMW X5,"2005 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 140 000 км",$ 14 700
+https://im.mashina.kg/tachka/images//c/8/7/c87ec8291636628727713698a065b610_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 93 342 км",$ 50 200
+https://im.mashina.kg/tachka/images//4/b/9/4b96b16f0d1d39c6893787f8434dfdef_240x180.jpg ,BMW M6,"2019 г., 4.4 л., роботседан, бензинруль слева, 27 359 км",$ 67 000
+https://im.mashina.kg/tachka/images//2/7/d/27d5ba10c7da3277d87d2004aaececf6_240x180.jpg ,BMW M5,"2007 г., 5 л., роботседан, бензинруль слева, 140 000 км",$ 25 000
+https://im.mashina.kg/tachka/images//5/2/c/52c42a71e8420f9cee2d0597edf8c790_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 68 000 км",$ 110 000
+https://im.mashina.kg/tachka/images//0/a/3/0a34de09e4b54e8c12832dc9ee9454f3_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 148 000 км",$ 85 000
+https://im.mashina.kg/tachka/images//1/0/b/10b663e19709d0d50aab932b9f0a4341_240x180.jpg ,BMW X6,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 44 579 км",$ 56 500
+https://im.mashina.kg/tachka/images//d/b/7/db759b7201b81083e683e9263a0c1706_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 19 312 км",$ 59 000
+https://im.mashina.kg/tachka/images//2/8/7/2876db0f0455286743944f51c064857f_240x180.jpg ,BMW 7 серии,"2003 г., 4.4 л., автоматседан, бензинруль слева, 280 000 км",$ 6 800
+https://im.mashina.kg/tachka/images//8/c/e/8ce565e86b37352cafbc38746ba0debe_240x180.jpg ,BMW 3 серии,"2004 г., 3 л., автоматседан, бензинруль слева, 294 300 км",$ 8 000
+https://im.mashina.kg/tachka/images//9/6/6/966a61f280337aa47dc3ca2d43ddeb8f_240x180.jpg ,BMW X5,"2017 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 56 810 км",$ 24 100
+https://im.mashina.kg/tachka/images//4/3/3/433ba7184cb14946336f13136977b5a9_240x180.jpg ,BMW 5 серии,"2016 г., 3 л., автоматхэтчбек 5 дв., бензинруль слева, 140 000 км",$ 25 000
+https://im.mashina.kg/tachka/images//3/6/e/36e27b990259d93dceefcacb7cf63b43_240x180.jpg ,BMW 3 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 100 000 км",$ 12 800
+https://im.mashina.kg/tachka/images//7/9/0/79062128b65508cd23809d8eca2c1ad9_240x180.jpg ,BMW 3 серии,"2016 г., 2 л., автоматседан, бензинруль слева, 116 000 км",$ 23 500
+https://im.mashina.kg/tachka/images//1/8/8/188a77201b0ab4f6f78d2d113673d3cc_240x180.jpg ,BMW X5,"2017 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 124 241 км",$ 29 300
+https://im.mashina.kg/tachka/images//0/4/9/049acd4dc71b6d9e0b27e60d8010f1d0_240x180.jpg ,BMW X5,"2017 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 185 074 км",$ 23 500
+https://im.mashina.kg/tachka/images//a/f/8/af8e0c477de05a61b391ab330331eb6d_240x180.jpg ,BMW M5,"2019 г., 4.4 л., автоматседан, бензинруль слева, 19 471 км",$ 59 000
+https://im.mashina.kg/tachka/images//f/b/f/fbf8cc83f750d03f3a93850d01179e56_240x180.jpg ,BMW 5 серии,"2016 г., 3 л., автоматседан, дизельруль слева, 174 600 км",$ 30 000
+https://im.mashina.kg/tachka/images//c/7/a/c7a0d43b7625b32e8cc6633208c93db2_240x180.jpg ,BMW X7,"2023 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 15 км",$ 196 000
+https://im.mashina.kg/tachka/images//6/5/c/65cd29567b2dd8669f72418893302eca_240x180.jpg ,BMW X6,"2017 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 73 064 км",$ 28 500
+https://im.mashina.kg/tachka/images//4/6/f/46fc768ca7d82b0a71f6a6e49dc4eaa1_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 266 000 км",$ 13 000
+https://im.mashina.kg/tachka/images//2/c/f/2cfd7fc2f776a1dee2b688c3627bde45_240x180.jpg ,BMW X5,"2017 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 88 997 км",$ 23 100
+https://im.mashina.kg/tachka/images//8/7/1/871b2f9be8952a270aa4cd78e8538098_240x180.jpg ,BMW 4 серии,"2017 г., 3 л., автоматкупе, бензинруль слева, 111 849 км",$ 20 900
+https://im.mashina.kg/tachka/images//b/1/2/b12725799a7ae2a99a2d5c6889213690_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 1 931 км",$ 66 275
+https://im.mashina.kg/tachka/images//3/d/b/3db8933f6a2a3ed01177eff3a91a6042_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 858 км",$ 119 975
+https://im.mashina.kg/tachka/images//9/1/b/91be9117245d8e0150867a2710716b1b_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 18 990 км",$ 54 700
+https://im.mashina.kg/tachka/images//5/e/a/5ea696728df8a60ddfa07c88e354793f_240x180.jpg ,BMW X5,"2016 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 120 746 км",$ 42 500
+https://im.mashina.kg/tachka/images//5/0/3/503287c68e9de69e6187d74af6bb9d38_240x180.jpg ,BMW M3,"2018 г., 3 л., роботседан, бензинруль слева, 48 924 км",$ 30 300
+https://im.mashina.kg/tachka/images//8/b/8/8b8563cfb37a3a4511e22a4d552b0d82_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 5 609 км",$ 103 000
+https://im.mashina.kg/tachka/images//4/c/e/4ce72b86a0192702c32e3469d2d0ff40_240x180.jpg ,BMW 4 серии,"2017 г., 3 л., автоматкупе, бензинруль слева, 96 078 км",$ 24 600
+https://im.mashina.kg/tachka/images//9/2/2/9228d77a9a2a93a3b88d00271108b043_240x180.jpg ,BMW X5,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 28 000 км",$ 75 750
+https://im.mashina.kg/tachka/images//5/2/3/5236af51f82416e21174566a14cfe83f_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 140 174 км",$ 64 500
+https://im.mashina.kg/tachka/images//9/c/2/9c23bb247537f58c89f33a08a3bf4cf7_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 9 700 км",$ 50 700
+https://im.mashina.kg/tachka/images//a/4/d/a4d55347fd2432d726fd361083799082_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 27 000 км",$ 95 500
+https://im.mashina.kg/tachka/images//5/5/9/55976e69334bb498101b11dd4ebfd399_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 58 000 км",$ 86 400
+https://im.mashina.kg/tachka/images//2/b/5/2b502ad77579cc3e033b31fb3edd21f0_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 127 000 км",$ 61 500
+https://im.mashina.kg/tachka/images//4/3/d/43d05baf4dc8631ee4eb4c7061a3cdc8_240x180.jpg ,BMW 3 серии,"2019 г., 2 л., автоматседан, бензинруль слева, 21 404 км",$ 25 500
+https://im.mashina.kg/tachka/images//a/8/7/a87463a6fab733be950fff5557f8a770_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 8 047 км",$ 59 350
+https://im.mashina.kg/tachka/images//0/6/8/068f73113e3788e9c65b5829a21b8d25_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 99 221 км",$ 63 320
+https://im.mashina.kg/tachka/images//e/6/9/e69d0b310cecac994c18bc2f2b82bb41_240x180.jpg ,BMW X6,"2018 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 30 000 км",$ 56 000
+https://im.mashina.kg/tachka/images//d/7/e/d7e3a4d9b339fe185a92fe0870a4db2e_240x180.jpg ,BMW M3,"2017 г., 3 л., роботседан, бензинруль слева, 67 914 км",$ 32 900
+https://im.mashina.kg/tachka/images//f/b/5/fb59f5b9bc7e1f7ac2a3bd34fc96539d_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 34 939 км",$ 100 000
+https://im.mashina.kg/tachka/images//a/0/a/a0a57379f6f6b009e4dcabf5973bda53_240x180.jpg ,BMW M4,"2017 г., 3 л., роботкупе, бензинруль слева, 84 329 км",$ 37 500
+https://im.mashina.kg/tachka/images//d/9/c/d9cc3059c380495b2e6058dcc046ec88_240x180.jpg ,BMW X5,"2018 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 41 521 км",$ 28 000
+https://im.mashina.kg/tachka/images//d/f/a/dfae2f8535a86c1359a2320780c4eb01_240x180.jpg ,BMW X5,"2013 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 19 700 км",$ 37 800
+https://im.mashina.kg/tachka/images//f/b/7/fb76cad0b3b2bfa8d4209fb698001087_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 15 000 км",$ 100 000
+https://im.mashina.kg/tachka/images//7/8/0/780335292a4725b810eb1619bba10e9d_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 65 000 км",$ 37 000
+https://im.mashina.kg/tachka/images//5/0/5/50592db46e7359015c5892d44dc16ee5_240x180.jpg ,BMW X5,"2003 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 190 000 км",$ 15 000
+https://im.mashina.kg/tachka/images//7/9/9/7993582d7f8df60f5096de94f5b74282_240x180.jpg ,BMW X5,"2018 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 70 000 км",$ 55 000
+https://im.mashina.kg/tachka/images//1/6/1/161ebb52ed3c30bfcd928ec57d978f7a_240x180.jpg ,BMW X7,"2020 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 30 500 км",$ 140 000
+https://im.mashina.kg/tachka/images//3/b/0/3b0c1c69a2a0bc8da2ac5fd2ebbfc7d7_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 47 000 км",$ 89 000
+https://im.mashina.kg/tachka/images//0/3/5/035b07e51aff89bff4b3575c77f3a9d7_240x180.jpg ,BMW iX,"2022 г., автоматвнедорожник 5 дв., электроруль слева",$ 115 900
+https://im.mashina.kg/tachka/images//b/5/2/b52713024f3228079d441b6a8973df8b_240x180.jpg ,BMW i4,"2022 г., автоматлифтбек, электроруль слева",$ 71 500
+https://im.mashina.kg/tachka/images//a/4/e/a4e1e3949e93a309ffbb38e6518617eb_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 147 000 км",$ 40 000
+https://im.mashina.kg/tachka/images//b/0/e/b0ee077df499d4bc3b7b115154ae2613_240x180.jpg ,BMW 7 серии,"2008 г., 4.4 л., автоматседан, бензинруль слева",$ 15 500
+https://im.mashina.kg/tachka/images//c/c/8/cc808cd4f67c09a4c6100632f69fbff0_240x180.jpg ,BMW X5,"2007 г., 4.8 л., автоматвнедорожник 5 дв., бензинруль слева, 271 000 км",$ 16 800
+https://im.mashina.kg/tachka/images//c/1/2/c124034f94c1cd30ecbc766770899043_240x180.jpg ,BMW 5 серии,"2019 г., 2 л., автоматседан, бензинруль слева, 49 000 км",$ 38 500
+https://im.mashina.kg/tachka/images//4/8/6/48669dbd39bf6cb14aa6e3d00b2ec3f2_240x180.jpg ,BMW X5,"2007 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 189 000 км",$ 15 500
+https://im.mashina.kg/tachka/images//3/2/f/32f7532559399699ab0e31deab4d690b_240x180.jpg ,BMW 5 серии,"2012 г., 2 л., автоматседан, бензинруль слева, 183 000 км",$ 16 500
+https://im.mashina.kg/tachka/images//c/1/c/c1ccea061fb8f46cc1b372e8a8faf627_240x180.jpg ,BMW 5 серии,"1992 г., 2.5 л., механикаседан, бензинруль слева, 390 000 км",$ 4 098
+https://im.mashina.kg/tachka/images//a/f/1/af12a85a8e79615d1ab26383c8c4d5c7_240x180.jpg ,BMW 3 серии,"2021 г., 2 л., автоматседан, бензинруль слева, 20 000 км",$ 43 500
+https://im.mashina.kg/tachka/images//1/f/f/1ff244bf8f9f704daac68fe4cb2e08e6_240x180.jpg ,BMW X5,"2016 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 120 000 км",$ 42 500
+https://im.mashina.kg/tachka/images//7/3/b/73be6ea660116b139f6d80c9f7ef7729_240x180.jpg ,BMW 5 серии,"2004 г., 2.5 л., автоматседан, бензинруль слева, 200 000 км",$ 6 033
+https://im.mashina.kg/tachka/images//f/4/d/f4db74f700852086761f60e1a1de25e4_240x180.jpg ,BMW 5 серии,"2001 г., 2.9 л., автоматседан, дизельруль слева, 200 000 км",$ 4 500
+https://im.mashina.kg/tachka/images//5/c/d/5cd15915e146ce26de80c5712ee7757b_240x180.jpg ,BMW X3,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 25 383 км",$ 62 400
+https://im.mashina.kg/tachka/images//d/e/9/de9f83bf18a0d950cfa74b5021d90d06_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, бензинруль слева, 32 500 км",$ 38 500
+https://im.mashina.kg/tachka/images//8/1/9/8196063b0aa8178f93c8b7033668fe90_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 130 000 км",$ 38 500
+https://im.mashina.kg/tachka/images//c/1/d/c1d9227fbd37b05a6e7fa5355329dd95_240x180.jpg ,BMW 5 серии,"2006 г., 3 л., автоматседан, бензинруль слева, 32 000 км",$ 8 000
+https://im.mashina.kg/tachka/images//0/9/e/09e282ee23491e53e9125fb7c2ad652b_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 287 000 км",$ 13 500
+https://im.mashina.kg/tachka/images//1/7/f/17f1a1dc00ad4a889794e865f8c8a84f_240x180.jpg ,BMW 3 серии,"2003 г., 2 л., механикаседан, бензинруль слева, 306 500 км",$ 6 500
+https://im.mashina.kg/tachka/images//8/2/d/82d99aeb86a21e9913792567c1850dba_240x180.jpg ,BMW X5,"2016 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 114 000 км",$ 41 900
+https://im.mashina.kg/tachka/images//7/6/9/769eb9eabb5e12500b36523350834307_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 12 000 км",$ 142 000
+https://im.mashina.kg/tachka/images//a/2/8/a288b251dc74c7d5fcf1f5c75636407e_240x180.jpg ,BMW 5 серии,"2011 г., 2 л., автоматседан, дизельруль слева, 260 000 км",$ 15 700
+https://im.mashina.kg/tachka/images//f/e/1/fe1e4993a8c94261fd0088a2cc50a118_240x180.jpg ,BMW 7 серии,"2017 г., 3 л., автоматседан, дизельруль слева, 81 500 км",$ 52 000
+https://im.mashina.kg/tachka/images//f/8/5/f85b06d8fec94666e50931d8e3f906f0_240x180.jpg ,BMW 5 серии,"2000 г., 3 л., автоматседан, бензинруль слева, 340 000 км",$ 6 830
+https://im.mashina.kg/tachka/images//9/d/7/9d7353db1ed0046b00d56e429fc61888_240x180.jpg ,BMW X5,"2004 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 113 000 км",$ 14 000
+https://im.mashina.kg/tachka/images//9/2/7/92742fe0232fbeed14211cb9e9f0ba47_240x180.jpg ,BMW 5 серии,"1997 г., 2.5 л., автоматседан, бензинруль слева, 200 000 км",$ 4 781
+https://im.mashina.kg/tachka/images//5/6/e/56ef2c925104c8a83bed593978c841fe_240x180.jpg ,BMW 5 серии,"2022 г., 2 л., автоматседан, бензинруль слева, 6 000 км",$ 75 000
+https://im.mashina.kg/tachka/images//7/9/2/7923d1575c1ae55b492b5ad77e39b857_240x180.jpg ,BMW 5 серии,"2017 г., 3 л., автоматседан, дизельруль слева, 77 000 км",$ 53 000
+https://im.mashina.kg/tachka/images//a/7/b/a7b034a9fced6dbea8c111b29330bfe6_240x180.jpg ,BMW X5 M,"2010 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 205 400 км",$ 20 700
+https://im.mashina.kg/tachka/images//7/b/4/7b4744ae10f16b4cd337a8ad6f59ce0a_240x180.jpg ,BMW X6,"2017 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 131 200 км",$ 49 900
+https://im.mashina.kg/tachka/images//b/7/1/b7105fdda86501612f93b5060c0be612_240x180.jpg ,BMW 5 серии,"2005 г., 2.5 л., автоматседан, бензинруль слева, 230 000 км",$ 9 700
+https://im.mashina.kg/tachka/images//3/c/c/3cc79c94b666fef05e0c9fcfb5f50bdb_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 51 000 км",$ 93 000
+https://im.mashina.kg/tachka/images//d/0/5/d0544837b6fd08f0164dc9d1e3a47e3b_240x180.jpg ,BMW X5,"2016 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 222 000 км",$ 38 500
+https://im.mashina.kg/tachka/images//b/b/9/bb99b0367cd1a5fc62c38bd1046974e1_240x180.jpg ,BMW 5 серии,"2021 г., 2 л., автоматседан, бензинруль слева, 11 275 км",$ 63 000
+NO FOTO,BMW X7,"2022 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева",$ 260 000
+https://im.mashina.kg/tachka/images//0/c/a/0ca033916cfad24a50d7e2bfe39a5ed3_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 14 106 км",$ 113 650
+https://im.mashina.kg/tachka/images//1/e/6/1e6ee7615aabb3a95489af216784cf79_240x180.jpg ,BMW X6,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 5 950 км",$ 100 300
+https://im.mashina.kg/tachka/images//7/9/1/791a3dc01e9cd066f62f3806b8cfe260_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 61 400 км",$ 74 063
+https://im.mashina.kg/tachka/images//f/d/4/fd487d61f2c1d6817ba8c3825a4b3e5c_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 9 207 км",$ 106 000
+https://im.mashina.kg/tachka/images//9/3/5/935e10fc43cf9c54fa4028a56f7b4989_240x180.jpg ,BMW 7 серии,"2012 г., 4.4 л., автоматседан, бензинруль слева, 120 000 км",$ 27 000
+https://im.mashina.kg/tachka/images//3/4/3/343aa7ff3d5b3b3355ab8b91a8f5d396_240x180.jpg ,BMW X5,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 49 600 км",$ 77 300
+https://im.mashina.kg/tachka/images//5/4/b/54b7e539aa1aae7c514ae5ac41c40d5a_240x180.jpg ,BMW X6,"2017 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 79 500 км",$ 57 000
+https://im.mashina.kg/tachka/images//5/0/1/5013f79847d65d2a0ea86a0c80d7e6df_240x180.jpg ,BMW X5 M,"2015 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 129 000 км",$ 51 000
+https://im.mashina.kg/tachka/images//e/4/f/e4fdc58fff8bea5e0aa7fb048dee1287_240x180.jpg ,BMW X5,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 40 000 км",$ 83 000
+https://im.mashina.kg/tachka/images//8/8/a/88ad064384e2f2f553b2a5a7df49da5a_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 135 000 км",$ 22 700
+https://im.mashina.kg/tachka/images//a/2/a/a2adffff1aeb3dc870563529adda354a_240x180.jpg ,BMW X5,"2018 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 160 039 км",$ 42 200
+https://im.mashina.kg/tachka/images//9/c/4/9c48498b4ac88d43b537c41e9a1b9a51_240x180.jpg ,BMW X3,"2017 г., 2 л., автоматвнедорожник 5 дв., дизельруль слева, 177 624 км",$ 32 700
+https://im.mashina.kg/tachka/images//c/1/1/c11117b878658c0c1f62d966ed05e97e_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева   новый",$ 135 800
+https://im.mashina.kg/tachka/images//c/f/3/cf34e9a634feeb5da756655009abfc6e_240x180.jpg ,BMW 5 серии,"2022 г., 2 л., автоматседан, бензинруль слева, 130 км",$ 70 000
+https://im.mashina.kg/tachka/images//8/d/d/8dd63c90677f4da8cb7d01770046f8c0_240x180.jpg ,BMW M4,"2022 г., 3 л., автоматкупе, бензинруль слева, 20 км",$ 173 000
+https://im.mashina.kg/tachka/images//7/c/3/7c39060bcc76e53e1b776894d2f47070_240x180.jpg ,BMW 7 серии,"2015 г., 3 л., автоматседан, дизельруль слева, 168 000 км",$ 45 000
+https://im.mashina.kg/tachka/images//f/b/5/fb5d24af565940272cf5e0d2aa024757_240x180.jpg ,BMW 7 серии,"2016 г., 3 л., автоматседан, дизельруль слева, 174 757 км",$ 37 500
+https://im.mashina.kg/tachka/images//b/3/d/b3dfd7b532f03b472309b42ecb710d1e_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 50 000 км",$ 120 000
+https://im.mashina.kg/tachka/images//7/f/b/7fb7b88c40e415fa55b9520b39d5bbfb_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 61 000 км",$ 92 500
+https://im.mashina.kg/tachka/images//3/6/0/3608728fc9ad37017cbf5faca2a49c38_240x180.jpg ,BMW X5,"2003 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 363 500 км",$ 10 900
+https://im.mashina.kg/tachka/images//b/9/9/b99aa3080b0f0de9046208575163672f_240x180.jpg ,BMW 5 серии,"2002 г., 2.5 л., автоматседан, бензинруль слева, 353 852 км",$ 5 700
+https://im.mashina.kg/tachka/images//4/f/0/4f0636f51ae0e7556a4e406a095c2634_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 45 000 км",$ 134 000
+https://im.mashina.kg/tachka/images//d/e/a/dea9b525a83c7344bc0371badd162ffd_240x180.jpg ,BMW X5,"2015 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 188 000 км",$ 32 500
+https://im.mashina.kg/tachka/images//5/a/c/5acec909a990b3a7e7a019bd52962713_240x180.jpg ,BMW 7 серии,"1983 г., 2.8 л., механикаседан, бензинруль слева, 356 090 км",$ 1 878
+https://im.mashina.kg/tachka/images//9/8/4/9840ae48eb83108b2d765b16f1e8f434_240x180.jpg ,BMW 5 серии,"2004 г., 3 л., автоматседан, бензинруль слева, 185 000 км",$ 10 000
+https://im.mashina.kg/tachka/images//c/1/3/c13bdcb45e27b4ec9599c77fb3b93c5a_240x180.jpg ,BMW 5 серии,"2008 г., 3 л., автоматседан, бензинруль слева, 200 000 км",$ 12 500
+https://im.mashina.kg/tachka/images//f/9/2/f927593d84313260ea45c48b5e2d168b_240x180.jpg ,BMW X5,"2005 г., 4.8 л., автоматвнедорожник 5 дв., бензинруль слева, 254 888 км",$ 14 500
+https://im.mashina.kg/tachka/images//2/2/8/2280e0cc6448facda740d669dc547c67_240x180.jpg ,BMW 3 серии,"2003 г., 2 л., механикаседан, бензинруль слева, 250 000 км",$ 6 261
+https://im.mashina.kg/tachka/images//1/c/a/1cacae393c9565cfe6390d035ed12cd4_240x180.jpg ,BMW 5 серии,"2021 г., 2 л., автоматседан, бензинруль слева, 19 800 км",$ 75 000
+https://im.mashina.kg/tachka/images//4/8/7/48729425c706144f625093ce30ef1add_240x180.jpg ,BMW 5 серии,"1994 г., 2 л., механикаседан, бензинруль слева, 2 500 км",$ 5 000
+https://im.mashina.kg/tachka/images//5/1/8/5184283c740248c3d79c6327484222b5_240x180.jpg ,BMW X6,"2017 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 124 445 км",$ 60 000
+https://im.mashina.kg/tachka/images//3/3/c/33ca94ab68dd8bd3b92e1bb128856374_240x180.jpg ,BMW X5,"2006 г., 4.8 л., автоматвнедорожник 5 дв., бензинруль слева, 280 000 км",$ 18 000
+https://im.mashina.kg/tachka/images//0/4/a/04aba5ccd7c822ea6306d8aa981d0b2f_240x180.jpg ,BMW 5 серии,"2010 г., 2.5 л., автоматседан, бензинруль слева, 170 000 км",$ 15 000
+https://im.mashina.kg/tachka/images//6/e/3/6e3911c64ff4c3684517ba5f1471880c_240x180.jpg ,BMW 5 серии,"2010 г., 2.5 л., автоматседан, бензинруль слева, 248 777 км",$ 14 300
+https://im.mashina.kg/tachka/images//3/f/0/3f090690b77dfd41f06af70719295994_240x180.jpg ,BMW 4 серии,"2017 г., 2 л., автоматлифтбек, бензинруль слева, 72 000 км",$ 25 000
+https://im.mashina.kg/tachka/images//2/b/c/2bcf486d8829a3dfb13c87630c759401_240x180.jpg ,BMW X5,"2013 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 180 000 км",$ 29 000
+https://im.mashina.kg/tachka/images//a/5/5/a551b9543dd6c99a474a1e9fdf73eda2_240x180.jpg ,BMW 3 серии,"2008 г., 2 л., автоматседан, бензинруль слева, 2 000 км",$ 9 500
+https://im.mashina.kg/tachka/images//3/9/a/39a731b428e459ed1291bdbb1eecf8d2_240x180.jpg ,BMW 5 серии,"1998 г., 2.8 л., автоматседан, бензинруль слева, 275 000 км",$ 7 300
+https://im.mashina.kg/tachka/images//f/3/e/f3ea53c30cc3136075d0e301797a6e06_240x180.jpg ,BMW X5,"2003 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 200 000 км",$ 10 000
+https://im.mashina.kg/tachka/images//a/1/3/a1344de8db8585096429fe6e24696774_240x180.jpg ,BMW 7 серии,"2006 г., 4.8 л., автоматседан, бензинруль слева, 278 000 км",$ 10 300
+https://im.mashina.kg/tachka/images//8/e/3/8e39e1380b6d97ee3337046418ac3239_240x180.jpg ,BMW 3 серии,"2019 г., 2 л., автоматседан, дизельруль слева, 28 000 км",$ 35 000
+https://im.mashina.kg/tachka/images//f/3/3/f33cb235ec36112feef42d4050118232_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 40 км",$ 160 000
+https://im.mashina.kg/tachka/images//5/2/2/5225aaf96fd1b72a9cdb39cd276d3cde_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 40 000 км",$ 122 000
+https://im.mashina.kg/tachka/images//d/9/0/d9074d876b8a1a6c24c6ea80854993e9_240x180.jpg ,BMW X5,"2008 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 160 000 км",$ 13 200
+https://im.mashina.kg/tachka/images//8/7/1/8718e8bf6a1ec049d611876bf5a36291_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 1 км",$ 270 000
+https://im.mashina.kg/tachka/images//f/5/e/f5ef408df32a8689b73fea563508b385_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 50 000 км",$ 130 000
+https://im.mashina.kg/tachka/images//5/0/b/50b7cd3a76cbe57c4a8cbee53100ef32_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 20 км",$ 120 000
+https://im.mashina.kg/tachka/images//4/5/0/4503280984e6e39126d697129e0df234_240x180.jpg ,BMW X5,"2017 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 89 000 км",$ 75 800
+https://im.mashina.kg/tachka/images//e/4/1/e41d842bbb1704142dd3663341722581_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 7 420 км",$ 80 100
+https://im.mashina.kg/tachka/images//3/d/c/3dc3490f45b165f1157597bba6d5ba43_240x180.jpg ,BMW 7 серии,"2023 г., 3 л., автоматседан, бензинруль слева, 50 км",$ 288 000
+https://im.mashina.kg/tachka/images//9/7/7/9773b601ef5bb7d8111b597035515d59_240x180.jpg ,BMW X5,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 84 100 км",$ 77 815
+https://im.mashina.kg/tachka/images//e/7/8/e78a87e2d769ffa0b9ebd7923bb1b675_240x180.jpg ,BMW X5,"2022 г., 2 л., автоматвнедорожник 5 дв., дизельруль слева, 868 км",$ 91 000
+https://im.mashina.kg/tachka/images//5/9/2/592b0cd4dea8f91a77e6a74737a21e6a_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 14 000 км",$ 85 500
+https://im.mashina.kg/tachka/images//f/7/8/f788ce19b4c5406f51e667e36adb6a33_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 1 км",$ 270 000
+https://im.mashina.kg/tachka/images//e/8/8/e884a635c3ee8f7a4794e1eaf4afe572_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 1 км",$ 105 000
+https://im.mashina.kg/tachka/images//3/a/2/3a27a532c03e020a7a51a23de4c25829_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 45 000 км",$ 123 000
+https://im.mashina.kg/tachka/images//3/3/5/3352491ba07d9fa99a59f2305b440b47_240x180.jpg ,BMW X6,"2013 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 140 000 км",$ 27 500
+https://im.mashina.kg/tachka/images//6/1/4/614d791353638650dc99603341322a6e_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 1 км",$ 220 000
+https://im.mashina.kg/tachka/images//f/7/8/f78f4d2a23377fcee802c6d0bea6fbe3_240x180.jpg ,BMW X5,"2016 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 130 000 км",$ 45 000
+https://im.mashina.kg/tachka/images//e/f/8/ef8ee1c93b7ddb7d3a339eb9b6f85ea0_240x180.jpg ,BMW X6,"2016 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 75 000 км",$ 58 000
+https://im.mashina.kg/tachka/images//8/1/4/814044c3ccfcfd03cdf89e5f049019ff_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 16 000 км",$ 127 500
+https://im.mashina.kg/tachka/images//9/7/e/97e4732b962e8fa5e70ff535d80457c5_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 868 км",$ 100 000
+https://im.mashina.kg/tachka/images//9/a/d/9ad36632ae8b76881ad0d1cc56275ff0_240x180.jpg ,BMW M5,"2018 г., 4.4 л., автоматседан, бензинруль слева, 102 000 км",$ 71 853
+https://im.mashina.kg/tachka/images//3/b/0/3b028faca319dae6e951f5ed9493680b_240x180.jpg ,BMW 7 серии,"2022 г., 4.4 л., автоматседан, бензинруль слева, 1 км",$ 280 000
+https://im.mashina.kg/tachka/images//4/d/9/4d9c2038b5eff73d194fb9bd91ede425_240x180.jpg ,BMW X6,"2018 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 84 000 км",$ 65 730
+https://im.mashina.kg/tachka/images//0/c/8/0c8d904b8fdb7f55ed58425b29ec40d8_240x180.jpg ,BMW i4,"2022 г., автоматлифтбек, электроруль слева, 16 843 км",$ 59 999
+https://im.mashina.kg/tachka/images//3/8/2/382bee3bff6fad7e5e152172cae2c333_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 45 000 км",$ 38 000
+https://im.mashina.kg/tachka/images//2/d/c/2dc03399c4e58a1490c489c2fdbd6f0d_240x180.jpg ,BMW 5 серии,"2015 г., 3 л., автоматседан, бензинруль слева, 90 000 км",$ 30 000
+https://im.mashina.kg/tachka/images//1/5/a/15ae5da8729bd5fd7a2c2bb0b52932df_240x180.jpg ,BMW X5,"2005 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 141 000 км",$ 11 999
+https://im.mashina.kg/tachka/images//b/3/1/b31f34753574db529b0e0206f171b117_240x180.jpg ,BMW X3,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 34 390 км",$ 62 335
+https://im.mashina.kg/tachka/images//8/9/5/895ee8f0560797a9268998f51e36f777_240x180.jpg ,BMW 5 серии,"2008 г., 3 л., автоматседан, бензинруль слева, 20 000 км",$ 9 000
+https://im.mashina.kg/tachka/images//4/1/a/41acc59c1cc04b112b5e41b269a3c24c_240x180.jpg ,BMW X4,"2022 г., 2 л., автоматвнедорожник 5 дв., бензинруль слева, 1 954 км",$ 63 800
+https://im.mashina.kg/tachka/images//7/0/9/709baa61b3c2cac77cf91babb0320699_240x180.jpg ,BMW 3 серии,"2014 г., 1.6 л., автоматседан, бензинруль слева, 230 000 км",$ 14 800
+https://im.mashina.kg/tachka/images//5/a/5/5a5321a250c199b4a2ebb746594fee03_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 2 582 км",$ 113 600
+https://im.mashina.kg/tachka/images//7/4/7/7478a34282a39c4559a7c75b460a9d9d_240x180.jpg ,BMW M2,"2021 г., 3 л., роботкупе, бензинруль слева, 10 194 км",$ 66 000
+https://im.mashina.kg/tachka/images//7/5/e/75e490d15f1bad7e3d7ae1b5c71c668c_240x180.jpg ,BMW M5,"2019 г., 4.4 л., автоматседан, бензинруль слева, 9 970 км",$ 85 800
+https://im.mashina.kg/tachka/images//1/a/4/1a459698d46a070e78841ef928634be0_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 147 304 км",$ 76 200
+https://im.mashina.kg/tachka/images//2/e/2/2e23c99c98375bce4e0a8be990d9a578_240x180.jpg ,BMW 7 серии,"2021 г., 3 л., автоматседан, дизельруль слева, 13 590 км",$ 95 250
+https://im.mashina.kg/tachka/images//c/5/b/c5bc443d530649327552fb4ed8d2b214_240x180.jpg ,BMW 5 серии,"2020 г., 2 л., автоматседан, бензинруль слева, 17 400 км",$ 44 500
+https://im.mashina.kg/tachka/images//e/c/8/ec863f6d7af1c8188fbc4c2b8731e759_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 3 000 км",$ 113 000
+https://im.mashina.kg/tachka/images//5/0/8/50877d956462819ed972f71e51520189_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 11 178 км",$ 100 000
+https://im.mashina.kg/tachka/images//f/3/a/f3ae78e4d1ced92ba2acf8b2367bb196_240x180.jpg ,BMW 7 серии,"2004 г., 3.6 л., автоматседан, бензинруль слева, 300 000 км",$ 7 000
+https://im.mashina.kg/tachka/images//7/4/e/74eb457d82d6b043989edd19abcd5337_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 1 768 км",$ 92 800
+https://im.mashina.kg/tachka/images//3/5/7/35761b3cd60be728c71623bbd28509df_240x180.jpg ,BMW X6,"2008 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 184 000 км",$ 15 600
+https://im.mashina.kg/tachka/images//e/9/d/e9dbe87f93e84f8124de57d990524659_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., гибридруль слева, 6 992 км",$ 76 700
+https://im.mashina.kg/tachka/images//0/f/5/0f595acfab5c6a6566f1ef51fabbea91_240x180.jpg ,BMW 7 серии,"2001 г., 4.4 л., автоматседан, бензинруль слева, 284 325 км",$ 7 300
+https://im.mashina.kg/tachka/images//d/3/2/d325a80838b188c6dc069cc5d352b9d9_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., гибридруль слева, 15 000 км",$ 71 700
+https://im.mashina.kg/tachka/images//e/0/9/e098421de42156817665dd18dc7f1425_240x180.jpg ,BMW 5 серии,"2019 г., 2 л., автоматседан, бензинруль слева, 35 063 км",$ 43 500
+https://im.mashina.kg/tachka/images//4/a/1/4a1f5f6b7224ad2b746a31e16986bd65_240x180.jpg ,BMW X5,"2017 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 170 000 км",$ 41 000
+https://im.mashina.kg/tachka/images//6/7/b/67bc3a0528b89e8bc3d614b0552ba9e1_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 43 323 км",$ 35 700
+https://im.mashina.kg/tachka/images//b/c/d/bcd0c5dc5f755029f4019af280e9e183_240x180.jpg ,BMW X7,"2020 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 49 000 км",$ 139 000
+https://im.mashina.kg/tachka/images//c/1/7/c1715f858f9fce4b411a2d02eafdb1e9_240x180.jpg ,BMW 7 серии,"2005 г., 3 л., автоматседан, дизельруль слева, 250 000 км",$ 11 500
+https://im.mashina.kg/tachka/images//a/b/7/ab737cabdcf5207385686dc963e8bbb2_240x180.jpg ,BMW 5 серии,"2008 г., 3 л., автоматседан, бензинруль слева, 250 000 км",$ 13 500
+https://im.mashina.kg/tachka/images//c/a/9/ca9bbc2d02a14b7ca2d6a29d972672eb_240x180.jpg ,BMW 5 серии,"2016 г., 2 л., автоматседан, дизельруль слева, 121 938 км",$ 25 350
+https://im.mashina.kg/tachka/images//7/6/0/760bd65d0292a8e7a22bd40162a3d44f_240x180.jpg ,BMW 3 серии,"2021 г., 2 л., автоматседан, бензинруль слева, 6 468 км",$ 43 160
+https://im.mashina.kg/tachka/images//7/f/3/7f372a798acafba1ecb248a110a0d6b8_240x180.jpg ,BMW 5 серии,"2018 г., 3 л., автоматседан, дизельруль слева, 41 300 км",$ 41 300
+https://im.mashina.kg/tachka/images//b/0/a/b0acbe33c72c15c13747c292fad8996c_240x180.jpg ,BMW X5,"2018 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 123 730 км",$ 46 100
+https://im.mashina.kg/tachka/images//5/3/6/536c00d5eaf7e425d5506cd4e89ad9c7_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 28 793 км",$ 80 700
+https://im.mashina.kg/tachka/images//3/9/9/3994ac952a25eb9a72f2819408dca132_240x180.jpg ,BMW X5,"2017 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 63 264 км",$ 41 900
+https://im.mashina.kg/tachka/images//e/4/c/e4cc8fa79939741fdbf4c7531f119953_240x180.jpg ,BMW M5,"2016 г., 4.4 л., роботседан, бензинруль слева, 147 119 км",$ 42 600
+https://im.mashina.kg/tachka/images//a/7/7/a77d62c51f8db8210ffce33447ec2c2e_240x180.jpg ,BMW M5,"2019 г., 4.4 л., автоматседан, бензинруль слева, 35 300 км",$ 87 950
+https://im.mashina.kg/tachka/images//5/e/8/5e84a90384dfdc1bb480480b1f9273c0_240x180.jpg ,BMW 5 серии,"2016 г., 2 л., автоматседан, дизельруль слева, 133 000 км",$ 27 000
+https://im.mashina.kg/tachka/images//e/9/0/e901819af047347dd4376d791720854e_240x180.jpg ,BMW 5 серии,"2001 г., 2.2 л., автоматседан, бензинруль слева, 339 345 км",$ 6 500
+https://im.mashina.kg/tachka/images//e/1/2/e12158efae6a2b08531cec92c8a19462_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник, дизельруль слева, 15 554 км",$ 98 800
+https://im.mashina.kg/tachka/images//f/a/b/fab1fd3152e6ad572326ee9f3fabc1f0_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник, дизельруль слева, 26 752 км",$ 111 850
+https://im.mashina.kg/tachka/images//d/9/8/d9841adc1d1d272d5d0dd0df0d7b7a84_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 10 326 км",$ 96 199
+https://im.mashina.kg/tachka/images//d/d/2/dd25fce321748ac4b5732f7e4f951ad9_240x180.jpg ,BMW 5 серии,"2005 г., 4.4 л., автоматседан, бензинруль слева, 160 000 км",$ 15 000
+https://im.mashina.kg/tachka/images//f/2/e/f2eb44910b36184448132dfd9d71bf0a_240x180.jpg ,BMW 5 серии,"2002 г., 3 л., автоматседан, бензинруль слева",$ 7 171
+https://im.mashina.kg/tachka/images//8/9/a/89a423fc3c62b3e89cb7143b7ea025f8_240x180.jpg ,BMW 3 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 45 000 км",$ 24 000
+https://im.mashina.kg/tachka/images//9/7/5/975526582e60da3f59e84c85ae0d0630_240x180.jpg ,BMW X5,"2008 г., 4.8 л., автоматвнедорожник 5 дв., бензинруль слева, 300 000 км",$ 16 999
+https://im.mashina.kg/tachka/images//3/b/6/3b6f6db9d6366533c07dec6a11d723f1_240x180.jpg ,BMW X5,"2016 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 200 000 км",$ 45 500
+https://im.mashina.kg/tachka/images//7/f/1/7f1f2521e7cdd5eed94a7f20d6a5ea53_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 89 000 км",$ 40 500
+https://im.mashina.kg/tachka/images//0/0/3/003d30551d074ba4538c073da8ee3c8f_240x180.jpg ,BMW 5 серии,"2014 г., 2 л., автоматседан, бензинруль слева, 150 000 км",$ 22 000
+https://im.mashina.kg/tachka/images//c/6/e/c6edd5617dc4cd7e54c1b2d45fa4fde8_240x180.jpg ,BMW 6 серии,"2005 г., 4.4 л., автоматкупе, бензинруль слева, 247 000 км",$ 12 500
+https://im.mashina.kg/tachka/images//f/2/d/f2d6f3b474229351f5731ff908c2781f_240x180.jpg ,BMW 7 серии,"2000 г., 2.8 л., автоматседан, бензинруль слева, 266 000 км",$ 11 000
+https://im.mashina.kg/tachka/images//9/c/1/9c1fff5e5994eb3e4288af5c3419dab2_240x180.jpg ,BMW 3 серии,"2005 г., 2 л., механикаседан, бензинруль слева, 245 000 км",$ 7 500
+https://im.mashina.kg/tachka/images//5/6/f/56f792cfcfdb5b6377c868a2413126dd_240x180.jpg ,BMW X5,"2005 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 195 000 км",$ 11 800
+https://im.mashina.kg/tachka/images//7/1/1/711ba42ee8a8fcc663c559773444854e_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 23 000 км",$ 105 000
+https://im.mashina.kg/tachka/images//7/9/8/7984d43ec3317dab07d75e8f369807f2_240x180.jpg ,BMW X5,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 40 000 км",$ 79 200
+https://im.mashina.kg/tachka/images//4/c/3/4c3a1af6e2a7b04a829472b6e38509a3_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, дизельруль слева, 114 000 км",$ 26 800
+https://im.mashina.kg/tachka/images//6/d/3/6d3d7e95506546bee30c87f12a935a24_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 117 000 км",$ 37 500
+https://im.mashina.kg/tachka/images//4/4/9/4498473856d59f8af14e916d47acede1_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, дизельруль слева, 87 000 км",$ 29 600
+https://im.mashina.kg/tachka/images//f/c/8/fc8e9c4603912b6f4556728b56ef746a_240x180.jpg ,BMW 5 серии,"2021 г., 2 л., автоматседан, гибридруль слева, 12 000 км",$ 54 400
+https://im.mashina.kg/tachka/images//5/9/b/59b7698f1f19177a76f075bc74ca2082_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 33 000 км",$ 125 000
+https://im.mashina.kg/tachka/images//6/7/9/679ebe8848b81d7df69e2f41c1829502_240x180.jpg ,BMW 5 серии,"1992 г., 2.5 л., механикаседан, бензинруль слева, 140 000 км",$ 3 699
+https://im.mashina.kg/tachka/images//d/f/2/df203fcbcf89f2b3505058718de16754_240x180.jpg ,BMW X3,"2007 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 130 000 км",$ 10 500
+https://im.mashina.kg/tachka/images//9/8/6/986622f7c25e84f22c26132d55832228_240x180.jpg ,BMW 5 серии,"2017 г., 3 л., автоматседан, дизельруль слева, 114 000 км",$ 35 600
+https://im.mashina.kg/tachka/images//8/2/c/82cc3d27b5006ac739e25b22a29cab7c_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 170 000 км",$ 26 200
+https://im.mashina.kg/tachka/images//0/a/a/0aa03d7dc1df6de2886767737ec650b0_240x180.jpg ,BMW 5 серии,"2010 г., 3 л., автоматседан, бензинруль слева, 240 000 км",$ 14 900
+https://im.mashina.kg/tachka/images//9/8/4/98476f5eef9417812c4eefd61a5cba26_240x180.jpg ,BMW 1 серии,"2020 г., 2 л., автоматхэтчбек 5 дв., дизельруль слева, 39 000 км",$ 25 300
+https://im.mashina.kg/tachka/images//c/2/a/c2a3973f722bca521a10e60e78fc9d8c_240x180.jpg ,BMW 3 серии,"2019 г., 2 л., автоматседан, дизельруль слева, 64 000 км",$ 30 200
+https://im.mashina.kg/tachka/images//6/0/0/600776a865706ca11a3acbc2df111135_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, дизельруль слева, 92 000 км",$ 37 500
+https://im.mashina.kg/tachka/images//f/5/e/f5e84eee43148007ab8ec53137d05ea9_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 65 000 км",$ 65 000
+https://im.mashina.kg/tachka/images//3/f/3/3f3caaa64c4ad862da2afcbdf3291bbc_240x180.jpg ,BMW X6,"2019 г., автоматвнедорожник 5 дв., дизельруль слева, 97 000 км",$ 97 000
+https://im.mashina.kg/tachka/images//4/3/0/43029539dfafc77c5b2f99428f228d3f_240x180.jpg ,BMW X7,"2021 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 26 000 км",$ 142 000
+https://im.mashina.kg/tachka/images//5/4/c/54c42351ce6aeaddff70ede7a24e0cd9_240x180.jpg ,BMW X5,"2019 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 55 000 км",$ 95 000
+https://im.mashina.kg/tachka/images//d/a/0/da0851fc73ae2aa69015e5f29f2e8d3e_240x180.jpg ,BMW 7 серии,"2022 г., 3 л., автоматседан, гибридруль слева, 31 000 км",$ 100 000
+https://im.mashina.kg/tachka/images//1/7/e/17ea09afc28bea03c2bffe876c0820af_240x180.jpg ,BMW 5 серии,"2002 г., 2.5 л., механикаседан, бензинруль слева, 250 000 км",$ 6 500
+https://im.mashina.kg/tachka/images//2/b/d/2bd9e757aac5e9dc11e3e6e901335830_240x180.jpg ,BMW X5 M,"2016 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 170 000 км",$ 60 000
+https://im.mashina.kg/tachka/images//0/2/4/02462913411c81b550c674521782d3e2_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 19 км",$ 170 000
+https://im.mashina.kg/tachka/images//d/a/8/da8ffb9f50cfb42a65f90617e82c71f9_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 555 км",$ 190 000
+https://im.mashina.kg/tachka/images//0/a/8/0a816eda23ebd658b4bc9bd624cd4686_240x180.jpg ,BMW 5 серии,"1999 г., 2.5 л., автоматседан, бензинруль слева",$ 7 000
+https://im.mashina.kg/tachka/images//4/a/2/4a2b2e2f604cdf265e98b37fdf56403d_240x180.jpg ,BMW 3 серии,"2001 г., 1.9 л., механикаседан, бензинруль слева, 240 000 км",$ 8 500
+https://im.mashina.kg/tachka/images//0/a/2/0a227ed4838d737a55a3b8f69c881ba3_240x180.jpg ,BMW X6,"2010 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 186 000 км",$ 21 600
+https://im.mashina.kg/tachka/images//2/7/d/27de3ae2ac67d4a5c3c5701340b2c29e_240x180.jpg ,BMW 3 серии,"1999 г., 1.9 л., механикаседан, бензинруль слева, 222 222 км",$ 3 300
+https://im.mashina.kg/tachka/images//1/3/d/13de03ead088c9e9b6c4bcfe10555ccb_240x180.jpg ,BMW 5 серии,"2008 г., 3 л., автоматседан, бензинруль слева, 284 268 км",$ 13 500
+https://im.mashina.kg/tachka/images//7/0/3/703b8bc7df497b91c317e4334647a4bd_240x180.jpg ,BMW X5,"2016 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 122 000 км",$ 63 000
+https://im.mashina.kg/tachka/images//1/1/6/116d254e6da5376fc64aa8f90eba745a_240x180.jpg ,BMW 5 серии,"2000 г., 2.8 л., автоматседан, бензинруль слева, 300 000 км",$ 5 999
+https://im.mashina.kg/tachka/images//b/1/f/b1f9a8b68788da7d054f9f7d8d5f4388_240x180.jpg ,BMW 5 серии,"2016 г., 3 л., автоматседан, бензинруль слева, 145 000 км",$ 28 000
+https://im.mashina.kg/tachka/images//a/6/d/a6df7132744dfdebfeedff5fdbac636f_240x180.jpg ,BMW X5,"2010 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 295 000 км",$ 19 500
+https://im.mashina.kg/tachka/images//9/d/a/9da921eafc631291638089fc8bdfd786_240x180.jpg ,BMW X5,"2012 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 150 000 км",$ 20 000
+https://im.mashina.kg/tachka/images//6/d/1/6d115fab14ebf064d32470bfb7334a7e_240x180.jpg ,BMW 5 серии,"2001 г., 2.5 л., механикаседан, бензинруль слева, 225 563 км",$ 7 000
+https://im.mashina.kg/tachka/images//d/e/b/deb85955447831e0d079f114d11ff67d_240x180.jpg ,BMW 5 серии,"1995 г., 2.5 л., механикаседан, бензинруль слева, 299 000 км",$ 8 500
+https://im.mashina.kg/tachka/images//d/4/0/d40a205b25289621895d23448ac83bbf_240x180.jpg ,BMW X5,"2003 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 360 000 км",$ 14 500
+NO FOTO,BMW X5,"2005 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 237 000 км",$ 9 000
+https://im.mashina.kg/tachka/images//c/7/8/c787aa30e5ba5eb56eb129cce1c251a2_240x180.jpg ,BMW M5,"2012 г., 4.4 л., роботседан, бензинруль слева, 118 000 км",$ 35 000
+https://im.mashina.kg/tachka/images//8/f/4/8f440a6ff0658e8780b93e7e10723641_240x180.jpg ,BMW 7 серии,"2008 г., 4 л., автоматседан, бензинруль слева, 163 000 км",$ 14 900
+https://im.mashina.kg/tachka/images//9/c/d/9cd2c277163a4262259699441f1c96b6_240x180.jpg ,BMW 3 серии,"2000 г., 1.9 л., автоматседан, бензинруль слева, 250 000 км",$ 5 692
+https://im.mashina.kg/tachka/images//b/7/b/b7b76b99dea5990a88096282faa7ddb0_240x180.jpg ,BMW X6 M,"2019 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 68 000 км",$ 80 000
+https://im.mashina.kg/tachka/images//d/2/a/d2a3ab8dbb101e1683090fe26bd5a600_240x180.jpg ,BMW 5 серии,"2017 г., 3 л., автоматседан, бензинруль слева, 58 000 км",$ 46 500
+https://im.mashina.kg/tachka/images//7/c/4/7c40de002e25efe95c204690f6a811ec_240x180.jpg ,BMW 2 серии,"2021 г., 2 л., автоматкабриолет, дизельруль слева, 14 000 км",$ 36 900
+https://im.mashina.kg/tachka/images//9/e/a/9eae6d3bc91ffeb653663b3ac965e7b7_240x180.jpg ,BMW X2,"2022 г., 1.5 л., автоматвнедорожник 5 дв., бензинруль слева, 4 000 км",$ 55 000
+https://im.mashina.kg/tachka/images//2/7/7/27766510ba06c29cc13494f6d617f9b7_240x180.jpg ,BMW X5,"2016 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 160 000 км",$ 37 500
+https://im.mashina.kg/tachka/images//f/7/b/f7bb28c69c1c75b87259aff61ccff1a3_240x180.jpg ,BMW 3 серии,"1992 г., 1.8 л., механикаседан, бензинруль слева, 40 000 км",$ 1 503
+https://im.mashina.kg/tachka/images//6/4/f/64f1398ee64c1d36dacb1d73cba00256_240x180.jpg ,BMW X7,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 51 000 км",$ 110 000
+https://im.mashina.kg/tachka/images//6/0/6/60643b253fa4df98fe78c33b21ef192c_240x180.jpg ,BMW 5 серии,"2017 г., 3 л., автоматседан, бензинруль слева, 83 000 км",$ 48 000
+https://im.mashina.kg/tachka/images//e/f/8/ef8c487b4add64f9581c25a8a8f2176e_240x180.jpg ,BMW 4 серии,"2016 г., 2 л., автоматкупе, бензинруль слева, 125 529 км",$ 25 000
+https://im.mashina.kg/tachka/images//2/8/5/285749ffb7bdd439c367eb42ca0ae28b_240x180.jpg ,BMW 3 серии,"2000 г., 1.9 л., автоматседан, бензинруль слева, 40 000 км",$ 3 756
+https://im.mashina.kg/tachka/images//a/6/c/a6cffd595b83f260dea51ce1247e69ac_240x180.jpg ,BMW X6,"2017 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 202 000 км",$ 39 000
+https://im.mashina.kg/tachka/images//b/9/0/b907a7a06532c2f780724839b09f7a11_240x180.jpg ,BMW 3 серии,"1984 г., 1.8 л., механикаседан, бензинруль слева",$ 2 277
+https://im.mashina.kg/tachka/images//c/5/d/c5d8d18f383bf7bbe3cebe57cbd02fde_240x180.jpg ,BMW 5 серии,"2004 г., 2.2 л., автоматседан, бензинруль слева, 490 000 км",$ 7 300
+https://im.mashina.kg/tachka/images//9/0/f/90f266872f37c1b9f72a19d42d1d4004_240x180.jpg ,BMW 7 серии,"2000 г., 2.8 л., автоматседан, бензинруль слева, 170 000 км",$ 9 000
+https://im.mashina.kg/tachka/images//7/7/6/7763f70db4d09b8d5e11e8512455fe48_240x180.jpg ,BMW 5 серии,"1995 г., 2.5 л., механикаседан, бензинруль слева, 449 856 км",$ 7 500
+https://im.mashina.kg/tachka/images//4/a/4/4a425c7fc332d83420f254caed469da5_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, дизельруль слева, 94 000 км",$ 38 000
+https://im.mashina.kg/tachka/images//3/3/6/336d4d2faf06d903894870ea9d758b8f_240x180.jpg ,BMW X7,"2020 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 44 000 км",$ 129 000
+https://im.mashina.kg/tachka/images//5/6/1/561d2dcc6b19f9b5a4dea3489b5dbb03_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 57 000 км",$ 97 800
+https://im.mashina.kg/tachka/images//1/c/c/1cc60b13c4d74b4ad739ce52e255c84f_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, дизельруль слева, 105 000 км",$ 31 000
+https://im.mashina.kg/tachka/images//d/e/8/de8edc12023f7eb6c07e715688e1d7b6_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, дизельруль слева, 105 000 км",$ 31 000
+https://im.mashina.kg/tachka/images//0/1/4/0145a73a6df1599604c6e3cd8f9eb5b7_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 43 000 км",$ 89 500
+https://im.mashina.kg/tachka/images//c/b/f/cbffae235e6d5fd87ac80d7c1084bb04_240x180.jpg ,BMW 5 серии,"2018 г., 2 л., автоматседан, бензинруль слева, 32 000 км",$ 42 000
+https://im.mashina.kg/tachka/images//4/a/8/4a85a1faa1663eac225069af448f2c01_240x180.jpg ,BMW X6,"2017 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 219 000 км",$ 46 700
+https://im.mashina.kg/tachka/images//3/4/4/3441240f700557adc8dee9f92cdf8759_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 30 км",$ 220 000
+https://im.mashina.kg/tachka/images//1/e/5/1e569280b60325f5cca5dd9fd32faf3e_240x180.jpg ,BMW 3 серии,"2004 г., 2 л., автоматседан, бензинруль слева, 285 000 км",$ 4 600
+https://im.mashina.kg/tachka/images//3/1/6/3169aecb97b9f606550622d5e351e85e_240x180.jpg ,BMW 5 серии,"2008 г., 3 л., автоматседан, бензинруль слева, 300 000 км",$ 11 700
+https://im.mashina.kg/tachka/images//e/7/5/e75ef08f2f1de4d9cc9db98b6e9a63ca_240x180.jpg ,BMW X5,"2000 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 350 000 км",$ 2 600
+https://im.mashina.kg/tachka/images//e/2/9/e29f044edaf81782737851cf89492dfc_240x180.jpg ,BMW 5 серии,"2001 г., 2.2 л., механикаседан, бензинруль слева, 300 890 км",$ 5 800
+https://im.mashina.kg/tachka/images//3/e/7/3e71fdb45b3113331030e9b84a90bed1_240x180.jpg ,BMW X7,"2019 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 43 000 км",$ 110 000
+https://im.mashina.kg/tachka/images//0/3/e/03eb5514ac0f3d31a64eab1e4f915ffb_240x180.jpg ,BMW 5 серии,"1990 г., 2.5 л., механикаседан, бензинруль слева, 510 640 км",$ 5 919
+https://im.mashina.kg/tachka/images//5/a/c/5acdb0b1f76bd1b819e4f206fa87dd25_240x180.jpg ,BMW 5 серии,"1995 г., 2 л., механикаседан, бензинруль слева, 200 000 км",$ 3 415
+https://im.mashina.kg/tachka/images//7/5/0/75043bc981efe84bfc50c5495064bfe3_240x180.jpg ,BMW X5,"2016 г., 2 л., автоматвнедорожник 5 дв., гибридруль слева, 75 000 км",$ 42 000
+https://im.mashina.kg/tachka/images//4/0/2/402c42c24b2cf9fb7db832b164be0752_240x180.jpg ,BMW 5 серии,"2003 г., 3 л., автоматседан, бензинруль слева, 200 000 км",$ 7 500
+https://im.mashina.kg/tachka/images//1/c/6/1c680dd5c0911c09a5e49e2450e34fe6_240x180.jpg ,BMW X7,"2022 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 8 300 км",$ 147 000
+https://im.mashina.kg/tachka/images//4/c/2/4c212223845846cb63f697fb0e875c00_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 24 000 км",$ 103 000
+https://im.mashina.kg/tachka/images//1/2/b/12b7d039f750d60f720100c36038398f_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 34 000 км",$ 103 000
+https://im.mashina.kg/tachka/images//2/0/2/202f85b5d61c9349b2e9600100656745_240x180.jpg ,BMW 5 серии,"1991 г., 2 л., механикаседан, бензинруль слева, 374 125 км",$ 2 504
+https://im.mashina.kg/tachka/images//5/7/1/571ed2ab13b7d364b47df32727940528_240x180.jpg ,BMW X5,"2002 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 260 959 км",$ 7 400
+https://im.mashina.kg/tachka/images//1/e/e/1ee14e53e184fbfe74d9781e397a87ef_240x180.jpg ,BMW 5 серии,"2001 г., 2.5 л., автоматседан, бензинруль слева, 25 000 км",$ 7 700
+https://im.mashina.kg/tachka/images//4/f/e/4fe741821155f3ff84b39007417b9094_240x180.jpg ,BMW X5,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 48 000 км",$ 68 000
+https://im.mashina.kg/tachka/images//1/9/6/1966337a2c6312c3c0b230eb1e5e1c75_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 318 000 км",$ 13 200
+https://im.mashina.kg/tachka/images//5/3/c/53c1b33498ab9cd4fbe5336d3f75b3fd_240x180.jpg ,BMW X6,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 22 000 км",$ 105 000
+https://im.mashina.kg/tachka/images//3/9/3/39312dc4a6b6fb4361f65cf89a813d4b_240x180.jpg ,BMW 5 серии,"2002 г., 3 л., автоматседан, бензинруль слева, 300 000 км",$ 6 000
+https://im.mashina.kg/tachka/images//e/3/d/e3ddd6f034ad86b8a841bb8144fdb1c2_240x180.jpg ,BMW 5 серии,"2002 г., 3 л., автоматседан, бензинруль слева, 321 000 км",$ 9 000
+https://im.mashina.kg/tachka/images//c/5/4/c5494fddfe34c72aad3d5ea0a780dfd8_240x180.jpg ,BMW 3 серии,"2004 г., 2.2 л., механикаседан, бензинруль слева, 310 000 км",$ 6 000
+https://im.mashina.kg/tachka/images//d/4/3/d438a48ade3bb15c33edcab3d2b0da08_240x180.jpg ,BMW X7,"2022 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 1 500 км",$ 230 000
+https://im.mashina.kg/tachka/images//6/9/3/6935d16abf7b50637dabb34f7ee20645_240x180.jpg ,BMW 7 серии,"2020 г., 3 л., автоматседан, дизельруль слева, 72 000 км",$ 125 000
+https://im.mashina.kg/tachka/images//a/3/f/a3fc7dbae4ec73e0cbf5398734ff6ce2_240x180.jpg ,BMW X5,"2017 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 100 000 км",$ 55 000
+https://im.mashina.kg/tachka/images//2/5/8/25826003f455299b0f4e792dc993a213_240x180.jpg ,BMW 7 серии,"2018 г., 3 л., автоматседан, дизельруль слева, 96 000 км",$ 65 000
+https://im.mashina.kg/tachka/images//9/4/e/94e85bdb8da61484e36fafc36d625170_240x180.jpg ,BMW 7 серии,"1995 г., 4 л., автоматседан, бензинруль слева, 350 000 км",$ 3 415
+https://im.mashina.kg/tachka/images//c/5/6/c568de5d651ee200e31156c6d0b42ba6_240x180.jpg ,BMW X7,"2020 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 60 000 км",$ 150 000
+https://im.mashina.kg/tachka/images//c/9/e/c9e76bfc1d096ccb6c9cb3a948475c35_240x180.jpg ,BMW X6,"2017 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 80 000 км",$ 60 000
+https://im.mashina.kg/tachka/images//2/f/8/2f880517439c4e4cbc56ff7ecb2d5d9f_240x180.jpg ,BMW 5 серии,"2018 г., 3 л., автоматседан, бензинруль слева, 54 000 км",$ 45 500
+https://im.mashina.kg/tachka/images//8/1/f/81f8acd4c90c385584d48b823f65f87b_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 108 000 км",$ 44 000
+https://im.mashina.kg/tachka/images//f/7/5/f75617814f2280b3fea3caa5ae24cf24_240x180.jpg ,BMW 7 серии,"2010 г., 4.4 л., автоматседан, бензинруль слева, 210 000 км",$ 18 500
+https://im.mashina.kg/tachka/images//8/b/e/8be9c141d36ef7f9f73e851711ecfc46_240x180.jpg ,BMW iX,"2022 г., автоматвнедорожник 5 дв., электроруль слева",$ 104 000
+https://im.mashina.kg/tachka/images//b/c/2/bc2f44fdfe0fd41c6a285262600abf9d_240x180.jpg ,BMW X5 M,"2011 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 109 000 км",$ 25 000
+https://im.mashina.kg/tachka/images//2/3/e/23e3f69995aa3c27d2a52ea9b2e26359_240x180.jpg ,BMW X5,"2000 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 15 808 км",$ 7 500
+https://im.mashina.kg/tachka/images//f/f/0/ff07bd66eea5d4cb9bb4f1efbd692f20_240x180.jpg ,BMW X6,"2009 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 180 000 км",$ 19 000
+https://im.mashina.kg/tachka/images//8/9/c/89cdd2c35fccb39ff43afe92663b85a8_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 111 111 км",$ 11 000
+https://im.mashina.kg/tachka/images//5/0/e/50e5aae88308b92d0d46f1ca35f584ab_240x180.jpg ,BMW 7 серии,"2007 г., 6 л., автоматседан, бензинруль слева, 200 000 км",$ 14 000
+https://im.mashina.kg/tachka/images//b/6/1/b61ff92d687e10d1334d20287de002cf_240x180.jpg ,BMW 7 серии,"2020 г., 3 л., автоматседан, дизельруль слева, 40 000 км",$ 105 000
+https://im.mashina.kg/tachka/images//4/d/c/4dca5494fb6da8bf2ce5482cc3736593_240x180.jpg ,BMW 5 серии,"1991 г., 2.5 л., механикаседан, бензинруль слева, 400 000 км",$ 6 600
+https://im.mashina.kg/tachka/images//3/8/1/381b2cf229e4ddd6cd54482c67ec37de_240x180.jpg ,BMW 5 серии,"2010 г., 3 л., автоматседан, бензинруль слева, 248 846 км",$ 14 199
+https://im.mashina.kg/tachka/images//5/a/c/5ac12fa3fd326512ecd65d18b92f49b0_240x180.jpg ,BMW 4 серии,"2017 г., 3 л., автоматкупе, бензинруль слева, 55 000 км",$ 40 000
+https://im.mashina.kg/tachka/images//3/b/2/3b207366b4a99e37142818cd83e886c2_240x180.jpg ,BMW 3 серии,"2016 г., 3 л., автоматседан, бензинруль слева, 59 000 км",$ 35 000
+https://im.mashina.kg/tachka/images//9/2/6/926d1af1208d59dfa65da1bacd8a6164_240x180.jpg ,BMW 3 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 59 000 км",$ 25 500
+https://im.mashina.kg/tachka/images//0/6/9/069f5b841e24011285b67a13367a8357_240x180.jpg ,BMW X5,"2012 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 165 000 км",$ 25 000
+https://im.mashina.kg/tachka/images//d/e/a/dea79cf5939da352b451539ada7c2c1f_240x180.jpg ,BMW 5 серии,"2002 г., 2.5 л., автоматседан, бензинруль слева, 157 500 км",$ 10 500
+https://im.mashina.kg/tachka/images//1/b/d/1bd4f68cc08886c84c4e49674f41dd08_240x180.jpg ,BMW X6,"2008 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 186 500 км",$ 19 000
+https://im.mashina.kg/tachka/images//d/b/7/db73a3aed28328c89c5709fb1ca77b6c_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 73 590 км",$ 80 300
+https://im.mashina.kg/tachka/images//9/0/c/90c8fc02ff6e5a94747e96f812fddaac_240x180.jpg ,BMW 7 серии,"2019 г., 3 л., автоматседан, бензинруль слева, 30 331 км",$ 62 200
+https://im.mashina.kg/tachka/images//5/e/3/5e36a3ba8f456f9a34f29ebae56baa09_240x180.jpg ,BMW X5,"2003 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 300 000 км",$ 11 000
+https://im.mashina.kg/tachka/images//d/e/d/ded07a1d7b4ea2eb801f46a0ab706537_240x180.jpg ,BMW X5,"2022 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 2 800 км",$ 66 300
+https://im.mashina.kg/tachka/images//f/0/e/f0e298259d2ddd97c29a1f84d70bda3d_240x180.jpg ,BMW 3 серии,"2019 г., 2 л., автоматседан, бензинруль слева, 56 453 км",$ 35 000
+https://im.mashina.kg/tachka/images//b/4/a/b4a55821fd1d255c53955f994febc02d_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 98 394 км",$ 30 400
+https://im.mashina.kg/tachka/images//9/2/8/928c647a16735b4decfa93a16040bb93_240x180.jpg ,BMW 5 серии,"2003 г., 2.5 л., автоматседан, бензинруль слева, 288 000 км",$ 8 879
+https://im.mashina.kg/tachka/images//4/c/4/4c4ce77899fd638be7ae45a106b896d6_240x180.jpg ,BMW 3 серии,"2002 г., 2 л., автоматседан, бензинруль слева",$ 3 984
+https://im.mashina.kg/tachka/images//e/7/0/e70ef77d73a138e48a615f4c9aa0e3a5_240x180.jpg ,BMW X7,"2020 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 83 686 км",$ 51 000
+https://im.mashina.kg/tachka/images//a/7/f/a7fd7d6e9f3d4a294a45d6ca3dd70278_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., гибридруль слева, 29 600 км",$ 45 000
+https://im.mashina.kg/tachka/images//3/3/a/33a3b03c77cb836d7f1ffab9b80ed1a8_240x180.jpg ,BMW 5 серии,"1993 г., 4 л., механикаседан, бензинруль слева, 200 000 км",$ 20 000
+https://im.mashina.kg/tachka/images//5/5/c/55cd18438e62f2c3521927d246a144f4_240x180.jpg ,BMW 5 серии,"2000 г., 2.5 л., автоматседан, бензинруль слева, 296 000 км",$ 6 800
+https://im.mashina.kg/tachka/images//2/0/1/201bdd5ffdce683a7af518eec95950bb_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 200 000 км",$ 13 500
+https://im.mashina.kg/tachka/images//8/2/9/82987c740312968e2875fcd22ed9beaf_240x180.jpg ,BMW 3 серии,"1993 г., 1.8 л., механикаседан, бензинруль слева, 500 000 км",$ 2 049
+https://im.mashina.kg/tachka/images//8/6/6/8662f2180d504cb9907bef99a623cf30_240x180.jpg ,BMW iX,"2023 г., автоматвнедорожник 5 дв., электроруль слева",$ 150 000
+https://im.mashina.kg/tachka/images//d/e/a/dea7d2f9366ebf5734ec18fce69ec68e_240x180.jpg ,BMW 7 серии,"2008 г., 4.4 л., автоматседан, бензинруль слева, 190 000 км",$ 15 500
+https://im.mashina.kg/tachka/images//0/b/a/0bafb0f500b6b98265004dd630125e7a_240x180.jpg ,BMW X6,"2008 г., 4.4 л., автоматвнедорожник 5 дв., бензинруль слева, 142 000 км",$ 23 999
+https://im.mashina.kg/tachka/images//0/8/3/08393df6cd9e83a367a893f2ee86735c_240x180.jpg ,BMW 7 серии,"1995 г., 4 л., автоматседан, бензинруль слева, 312 000 км",$ 5 122
+https://im.mashina.kg/tachka/images//c/d/b/cdba3d7f0d4740711fcb6e1c224faba5_240x180.jpg ,BMW 5 серии,"2008 г., 3 л., автоматседан, бензинруль слева, 229 000 км",$ 18 800
+https://im.mashina.kg/tachka/images//1/9/9/199ab9dfd2e1a02154e20b00a1447a80_240x180.jpg ,BMW 5 серии,"2017 г., 2 л., автоматседан, дизельруль слева, 99 000 км",$ 34 000
+https://im.mashina.kg/tachka/images//f/1/4/f140c9ff43ea03fadcc58af35a85f338_240x180.jpg ,BMW X5,"2003 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 100 000 км",$ 13 500
+https://im.mashina.kg/tachka/images//2/7/5/275953d76cfdf2af7e9a6670d77bcd38_240x180.jpg ,BMW X5,"2008 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 265 000 км",$ 15 500
+https://im.mashina.kg/tachka/images//4/8/3/4832ccfa3e3665fc460b81126ffcf782_240x180.jpg ,BMW 3 серии,"2016 г., 3 л., автоматседан, бензинруль слева, 95 000 км",$ 36 000
+https://im.mashina.kg/tachka/images//a/d/5/ad5b13c8a7c13e2c40f7142e36b8c3fa_240x180.jpg ,BMW 5 серии,"2000 г., 2.5 л., автоматседан, бензинруль слева, 210 649 км",$ 6 800
+https://im.mashina.kg/tachka/images//0/2/3/02395cd6557a9ec2d2aace14134b76d1_240x180.jpg ,BMW 5 серии,"2003 г., 3 л., механикаседан, бензинруль слева, 256 000 км",$ 12 500
+https://im.mashina.kg/tachka/images//d/c/4/dc48cdd7eb2b6fb3cadf6d660be570df_240x180.jpg ,BMW X5,"2005 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 300 000 км",$ 11 500
+https://im.mashina.kg/tachka/images//1/c/8/1c82a50d04abf2f632d6379781dd409f_240x180.jpg ,BMW X6,"2009 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 190 000 км",$ 21 000
+https://im.mashina.kg/tachka/images//0/3/a/03a8c1b86257c889d9b5d6add4b01b3c_240x180.jpg ,BMW 5 серии,"2004 г., 2.2 л., механикаседан, бензинруль слева, 260 000 км",$ 6 716
+https://im.mashina.kg/tachka/images//4/b/2/4b2d3152bc2881b101bfe7745fe11b9d_240x180.jpg ,BMW 5 серии,"1996 г., 2.8 л., автоматседан, бензинруль слева, 280 000 км",$ 4 553
+https://im.mashina.kg/tachka/images//7/8/c/78c69892a93150492fbf28d9a4841883_240x180.jpg ,BMW 3 серии,"1994 г., 2.5 л., механикаседан, дизельруль слева, 268 478 км",$ 2 447
+https://im.mashina.kg/tachka/images//3/7/c/37c08cf47893b59b8d38a94400a2c0a6_240x180.jpg ,BMW 5 серии,"1989 г., 3 л., механикаседан, бензинруль слева",$ 6 000
+https://im.mashina.kg/tachka/images//2/f/c/2fccdda8fd102e6c791ae445b700383b_240x180.jpg ,BMW X5,"2015 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 124 000 км",$ 39 000
+https://im.mashina.kg/tachka/images//d/4/2/d42da8d253cb1a57abd15842978e8164_240x180.jpg ,BMW X3,"2018 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 89 339 км",$ 33 203
+https://im.mashina.kg/tachka/images//e/8/8/e887b69b1a46b729cecbc0b07fceb144_240x180.jpg ,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., гибридруль слева, 20 356 км",$ 80 852
+https://im.mashina.kg/tachka/images//4/8/6/48680c3322b3b428fa2bb1b8b04080a9_240x180.jpg ,BMW 5 серии,"2019 г., 2 л., автоматседан, бензинруль слева, 92 567 км",$ 27 893
+https://im.mashina.kg/tachka/images//4/7/7/4771e1cae54b0d9c74ed5e7fe7eb486b_240x180.jpg ,BMW X5,"2019 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 97 502 км",$ 51 520
+https://im.mashina.kg/tachka/images//8/b/5/8b5c61805504aa74b5e999ea19a27fa3_240x180.jpg ,BMW 3 серии,"2020 г., 2 л., автоматседан, бензинруль слева, 126 462 км",$ 28 620
+https://im.mashina.kg/tachka/images//6/a/9/6a98d4d3728444917f93a0222f7d5231_240x180.jpg ,BMW 5 серии,"2017 г., 3 л., автоматседан, бензинруль слева, 135 793 км",$ 26 170
+https://im.mashina.kg/tachka/images//8/8/e/88e82739b952137bc1a93b13e8369692_240x180.jpg ,BMW 4 серии,"2017 г., 2 л., автоматлифтбек, бензинруль слева, 134 496 км",$ 18 580
+https://im.mashina.kg/tachka/images//2/e/2/2e2a8d6be9c1b4c490f1a3bacfd770ae_240x180.jpg ,BMW 5 серии,"2002 г., 2.5 л., механикаседан, бензинруль слева, 290 000 км",$ 8 500
+https://im.mashina.kg/tachka/images//9/b/a/9baca33d8adfb4b2b7883a0aaef927fc_240x180.jpg ,BMW 5 серии,"2005 г., 2.5 л., механикаседан, бензинруль слева, 246 398 км",$ 5 800
+https://im.mashina.kg/tachka/images//4/f/7/4f763479d22767b8d26a68f4cd1df9da_240x180.jpg ,BMW 5 серии,"2010 г., 2.5 л., автоматседан, бензинруль слева, 130 000 км",$ 17 499
+https://im.mashina.kg/tachka/images//d/9/d/d9de6aded6b7a6a36133ce5c262e1387_240x180.jpg ,BMW 3 серии,"1996 г., 2.5 л., автоматседан, бензинруль справа, 300 000 км",$ 6 147
+https://im.mashina.kg/tachka/images//f/3/2/f326808232b060e2ef55dfe90774e56c_240x180.jpg ,BMW 5 серии,"1992 г., 2 л., механикаседан, бензинруль слева, 300 000 км",$ 3 187
+https://im.mashina.kg/tachka/images//2/7/2/2720d603884f080d7e144acfb8358c66_240x180.jpg ,BMW X6,"2011 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 180 000 км",$ 21 500
+https://im.mashina.kg/tachka/images//3/c/8/3c879975f489c9cbabb4f3e196ef3c2b_240x180.jpg ,BMW X5,"2013 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 160 000 км",$ 24 000
+https://im.mashina.kg/tachka/images//2/a/f/2af44d2c84013ddc9ed6dbea426cac78_240x180.jpg ,BMW 5 серии,"1994 г., 2.5 л., механикаседан, бензинруль слева, 460 000 км",$ 5 000
+https://im.mashina.kg/tachka/images//f/6/9/f698bd864bf1c4a03f3fcac2e4cc8a7d_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 320 000 км",$ 11 000
+https://im.mashina.kg/tachka/images//7/d/3/7d3f3421076e44b8fde9bbb4d0e60a22_240x180.jpg ,BMW 5 серии,"2005 г., 3 л., автоматседан, бензинруль слева, 2 500 км",$ 7 000
+NO FOTO,BMW 1 серии,"2004 г., 2 л., автоматхэтчбек 5 дв., бензинруль слева, 200 000 км",$ 3 415
+https://im.mashina.kg/tachka/images//2/7/0/2706214e98632d9f06050df714cde14e_240x180.jpg ,BMW 5 серии,"2008 г., 3 л., автоматседан, бензинруль слева, 225 000 км",$ 14 500
+https://im.mashina.kg/tachka/images//f/6/1/f61fc7612fccc31016b401ce955dae4d_240x180.jpg ,BMW X6,"2015 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 206 000 км",$ 36 500
+https://im.mashina.kg/tachka/images//1/b/6/1b6c759a24b0fe29fc677fd990bec7c3_240x180.jpg ,BMW 7 серии,"2003 г., 4.4 л., автоматседан, бензинруль слева, 290 000 км",$ 9 500
+https://im.mashina.kg/tachka/images//0/6/c/06c052c0926e60e0b08fc3699359bb6a_240x180.jpg ,BMW 5 серии,"2010 г., 3 л., автоматседан, бензинруль слева, 190 000 км",$ 13 500
+https://im.mashina.kg/tachka/images//6/f/8/6f8408282e1e25f6f88a0cf6cfae36f4_240x180.jpg ,BMW X5,"2020 г., 3 л., автоматвнедорожник 5 дв., дизельруль слева, 34 800 км",$ 99 000
+https://im.mashina.kg/tachka/images//d/8/2/d8290eae14817671205355631d0834e6_240x180.jpg ,BMW X5,"2004 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 240 213 км",$ 11 400
+NO FOTO,BMW X5,"2021 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 20 000 км",$ 100 000
+https://im.mashina.kg/tachka/images//0/5/5/055d207c41c8bc9b976e88550ff0630c_240x180.jpg ,BMW 3 серии,"2017 г., 2 л., автоматседан, бензинруль слева, 73 000 км",$ 24 499
+https://im.mashina.kg/tachka/images//0/1/4/0141e6a31be9cec8220a1aeb5bc27aa4_240x180.jpg ,BMW 3 серии,"1991 г., 2 л., механикаседан, бензинруль слева, 300 000 км",$ 2 106
+https://im.mashina.kg/tachka/images//9/c/8/9c837c68ea3e4d1f4722de90af780725_240x180.jpg ,BMW X6,"2008 г., 3 л., автоматвнедорожник 5 дв., бензинруль слева, 180 000 км",$ 22 000
+https://im.mashina.kg/tachka/images//9/9/7/99792189550e6caabeaa09a351877bf0_240x180.jpg ,BMW X3,"2017 г., 2 л., автоматвнедорожник 5 дв., бензинруль слева, 143 231 км",$ 18 000
